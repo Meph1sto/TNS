@@ -3,7 +3,6 @@
 """
 Created on Sat Jan 13 12:17:50 2018
 
-@author: robert_heeley
 
 Run XGBoost model and 10 fold cross val and create Kaggle file for submission
 
