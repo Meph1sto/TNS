@@ -3,7 +3,6 @@
 """
 Created on Fri Jan 12 16:56:12 2018
 
-@author: robert_heeley
 
 Create and extract features from supplied data files and append them to training and test data
 
