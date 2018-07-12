@@ -3,7 +3,6 @@
 """
 Created on Thu Jan 11 16:02:11 2018
 
-@author: robert_heeley
 
 Get a very quick overview of the data files
 
