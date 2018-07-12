@@ -3,7 +3,6 @@
 """
 Created on Fri Jan 12 19:50:47 2018
 
-@author: robert_heeley
 
 use XGBoost to rank feature importance
 
